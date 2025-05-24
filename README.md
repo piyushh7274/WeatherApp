@@ -18,7 +18,7 @@ A sleek and responsive Weather App built with modern web technologies. Instantly
 
 ## 📸 Preview
 
-![Weather App Screenshot](weatherapp.png) <!-- Optional: add your screenshot image here -->
+![Weather App Screenshot](my-project/weatherapp.png) <!-- Optional: add your screenshot image here -->
 
 ## 📦 Getting Started
 
